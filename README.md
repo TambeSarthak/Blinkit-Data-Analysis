@@ -4,12 +4,18 @@
 This project presents a Blinkit Sales Analysis Dashboard built using Python, Pandas, Matplotlib, and Seaborn to analyze retail sales performance, outlet characteristics, product categories, and customer ratings. The analysis helps uncover business insights related to sales trends, outlet performance, and product demand.
 
 📊 Dashboard Highlights
-KPI             | Value
-Total Records   | 8,523
-Total Sales     | ₹1.20M+
-Average Rating  | 4+
-Outlet Types    | Grocery Store & Supermarkets
-Item Categories | 15+ Product Types
+KPI
+Value
+Total Records
+8,523
+Total Sales
+₹1.20M+
+Average Rating
+4+
+Outlet Types
+Grocery Store & Supermarkets
+Item Categories
+15+ Product Types
 
 🔍 Key Insights
 ~Fruits & Vegetables and Snack Foods generated the highest sales contribution
